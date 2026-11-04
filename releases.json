@@ -1,0 +1,57 @@
+{
+  "product": {
+    "name": "Deskify Workspace",
+    "tagline": {
+      "ru": "Задачи, напоминания, заметки и таймер в одном окне.",
+      "en": "Tasks, reminders, notes and a timer in one window."
+    },
+    "about": {
+      "ru": [
+        "Deskify Workspace — настольное приложение для ежедневной работы: задачи, напоминания, заметки и документы, таймер и калькулятор.",
+        "Расширяется плагинами: их можно ставить из магазина плагинов или добавлять вручную. Есть защита PIN-кодом и сворачивание в трей."
+      ],
+      "en": [
+        "Deskify Workspace is a desktop app for everyday work: tasks, reminders, notes and documents, a timer and a calculator.",
+        "It is extended with plugins, which you can install from the plugin store or add by hand. It also has PIN protection and minimizes to the tray."
+      ]
+    },
+    "logo": "assets/1.jpg",
+    "platform": "Windows"
+  },
+  "releases": [
+    {
+      "version": "1.2.0",
+      "date": "",
+      "preview": "assets/preview-1.2.0.png",
+      "download": "downloads/Deskify-Workspace-1.2.0.zip",
+      "size": "",
+      "changes": [
+        { "type": "new", "text": { "ru": "Окно плагинов: все плагины плитками, с поиском, когда их много.", "en": "Plugins window: all plugins as tiles, with search when there are many." } },
+        { "type": "new", "text": { "ru": "Компоненты можно отключать, лишние вкладки скрываются.", "en": "Components can be turned off, and unused tabs are hidden." } },
+        { "type": "improved", "text": { "ru": "Плагинам доступно больше инструментов: api стал богаче. Исправлен серьезный баг с магазином.", "en": "Plugins get more tools: the api is richer. Fixed a serious bug with the magazine." } },
+        { "type": "improved", "text": { "ru": "Ошибки плагинов пишутся в data/plugin_errors.log с номером строки и подсказкой.", "en": "Plugin errors are written to data/plugin_errors.log with the line number and a hint." } }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "",
+      "preview": "",
+      "download": "downloads/Deskify-Workspace-1.1.0.zip",
+      "size": "",
+      "changes": [
+        { "type": "new", "text": { "ru": "Плагины могут использовать больше сторонних библиотек: Pillow, pygame, numpy и другие.", "en": "Plugins can use more third-party libraries: Pillow, pygame, numpy and others." } }
+      ]
+    },
+    {
+      "version": "1.0",
+      "date": "",
+      "preview": "",
+      "download": "downloads/Deskify-Workspace-1.0.zip",
+      "size": "",
+      "changes": [
+        { "type": "new", "text": { "ru": "Первая версия: задачи, напоминания, заметки, таймер, калькулятор.", "en": "First release: tasks, reminders, notes, timer, calculator." } },
+        { "type": "new", "text": { "ru": "Поддержка плагинов из папки data/plugins.", "en": "Plugin support from the data/plugins folder." } }
+      ]
+    }
+  ]
+}
