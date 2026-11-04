@@ -23,7 +23,7 @@
       "version": "1.2.0",
       "date": "",
       "preview": "assets/preview-1.2.0.png",
-      "download": "downloads/setup_ws.exe",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.2/setup_ws.exe",
       "size": "",
       "changes": [
         { "type": "new", "text": { "ru": "Окно плагинов: все плагины плитками, с поиском, когда их много.", "en": "Plugins window: all plugins as tiles, with search when there are many." } },
