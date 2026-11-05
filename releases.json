@@ -36,7 +36,7 @@
       "version": "1.1.0",
       "date": "",
       "preview": "",
-      "download": "downloads/Deskify-Workspace-1.1.0.zip",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.1/setup_ws.exe",
       "size": "",
       "changes": [
         { "type": "new", "text": { "ru": "Плагины могут использовать больше сторонних библиотек: Pillow, pygame, numpy и другие.", "en": "Plugins can use more third-party libraries: Pillow, pygame, numpy, and others." } }
@@ -46,7 +46,7 @@
       "version": "1.0",
       "date": "",
       "preview": "",
-      "download": "downloads/Deskify-Workspace-1.0.zip",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.0_Beta/deskify_workspace_setup.exe",
       "size": "",
       "changes": [
         { "type": "new", "text": { "ru": "Первая версия: задачи, напоминания, заметки, таймер, калькулятор.", "en": "First release: tasks, reminders, notes, timer, calculator." } },
