@@ -20,6 +20,23 @@
   },
   "releases": [
     {
+      "version": "1.3.0",
+      "date": "",
+      "preview": "13prew.png",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.3/setup_ws.exe",
+      "size": "",
+      "changes": [
+        { "type": "new", "text": { "ru": "Английский язык интерфейса.", "en": "English UI language." } },
+        { "type": "new", "text": { "ru": "Быстрая задача по Ctrl+Alt+A из любого окна и автозапуск с Windows.", "en": "Quick task with Ctrl+Alt+A from any window and autostart with Windows." } },
+        { "type": "new", "text": { "ru": "Резервные копии (zip, автокопии раз в N дней) и проверка обновлений.", "en": "Backups (zip, auto-backup every N days) and update checking." } },
+        { "type": "new", "text": { "ru": "PIN-защита доступа.", "en": "PIN access protection." } },
+        { "type": "new", "text": { "ru": "Настройка длительностей таймера и 4 мелодии завершения.", "en": "Configurable timer durations and 4 completion melodies." } },
+        { "type": "new", "text": { "ru": "Повтор «По будням», вид «Неделя» в календаре и перетаскивание задач между днями.", "en": "“Weekdays” repeat, week view in the calendar, and drag & drop of tasks between days." } },
+        { "type": "new", "text": { "ru": "Форматирование текста в блокноте: жирный, курсив, подчёркивание.", "en": "Text formatting in the notepad: bold, italic, underline." } },
+        { "type": "improved", "text": { "ru": "Тосты с отменой удаления, логотип в шапке/иконке/трее, перезагрузка плагинов без перезапуска.", "en": "Toasts with undo, logo in header/icon/tray, plugin reload without restarting." } }
+      ]
+    },
+    {
       "version": "1.2.0",
       "date": "",
       "preview": "assets/preview-1.2.0.png",
