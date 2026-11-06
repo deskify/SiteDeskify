@@ -20,9 +20,21 @@
   },
   "releases": [
     {
-      "version": "1.3.0",
+      "version": "1.4.0",
       "date": "",
       "preview": "assets/preview-1.3.0.png",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.4/setup_ws.exe",
+      "size": "",
+      "changes": [
+        { "type": "new", "text": { "ru": "Обновление в два клика: приложение само скачивает установщик с прогресс-баром и перезапускается после установки.", "en": "Two-click update: the app downloads the installer itself with a progress bar and restarts after installation." } },
+        { "type": "new", "text": { "ru": "Иконка приложения (logo.jpg) в шапке, иконке окна и трее.", "en": "App icon (logo.jpg) in the header, window icon, and tray." } },
+        { "type": "improved", "text": { "ru": "Английский интерфейс стал полнее: переводятся диалоги, уведомления и заголовки окон.", "en": "The English UI is more complete: dialogs, notifications, and window titles are now translated." } }
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "date": "",
+      "preview": "",
       "download": "https://github.com/deskify/Workspace/releases/download/1.3/setup_ws.exe",
       "size": "",
       "changes": [
