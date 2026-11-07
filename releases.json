@@ -19,6 +19,16 @@
     "platform": "Windows"
   },
   "releases": [
+     {
+      "version": "1.4.0",
+      "date": "",
+      "preview": "assets/p.svg",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.4/setup_ws.exe",
+      "size": "",
+      "changes": [
+        { "type": "new", "text": { "ru": "Обновление в два клика", "en": "Auto update" } }
+      ]
+    },
  
     {
       "version": "1.3.0",
