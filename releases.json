@@ -20,9 +20,81 @@
   },
   "releases": [
     {
+      "version": "1.5.0",
+      "date": "2026-11-11",
+      "preview": "assets/",
+      "download": "https://github.com/deskify/Workspace/releases/download/1.5.0/setup_ws.exe",
+      "size": "25.5 мб",
+      "changes": [
+        {
+          "type": "new",
+          "text": {
+            "ru": "Мастер первой настройки при первом запуске.",
+            "en": "First-run setup wizard."
+          }
+        },
+        {
+          "type": "new",
+          "text": {
+            "ru": "Новый таймер: обычный обратный отсчёт с названием и быстрыми значениями.",
+            "en": "New timer: a plain countdown with a name and quick presets."
+          }
+        },
+        {
+          "type": "new",
+          "text": {
+            "ru": "Свободный ввод даты и времени: завтра, пн, +3, 930, +2ч. Работает в задачах и напоминаниях.",
+            "en": "Free-form date and time input: tomorrow, mon, +3, 930, +2h. Works in tasks and reminders."
+          }
+        },
+        {
+          "type": "new",
+          "text": {
+            "ru": "Своя музыка для напоминаний и таймера (mp3, wav, wma).",
+            "en": "Your own music for reminders and the timer (mp3, wav, wma)."
+          }
+        },
+        {
+          "type": "improved",
+          "text": {
+            "ru": "Срок задачи: кнопки «Сегодня», «Завтра», «Через неделю», подсказка с расшифровкой даты, просроченные задачи подсвечены.",
+            "en": "Task due dates: Today, Tomorrow and In a week buttons, a preview of how the date was read, and overdue tasks highlighted."
+          }
+        },
+        {
+          "type": "improved",
+          "text": {
+            "ru": "Только тёмная тема: светлая убрана.",
+            "en": "Dark theme only: the light theme has been removed."
+          }
+        },
+        {
+          "type": "improved",
+          "text": {
+            "ru": "Названия дней и месяцев не зависят от языка Windows, логотип со скруглёнными углами.",
+            "en": "Day and month names no longer depend on the Windows language, and the logo has rounded corners."
+          }
+        },
+        {
+          "type": "improved",
+          "text": {
+            "ru": "Надёжнее сохранение данных: настройки и задачи не потеряются при сбое.",
+            "en": "More reliable saving: settings and tasks are safe even if the app crashes mid-write."
+          }
+        },
+        {
+          "type": "fixed",
+          "text": {
+            "ru": "Улучшен английский перевод; списки приоритета, повтора и цвета больше не остаются на русском.",
+            "en": "Improved English translation; the priority, repeat and color lists are no longer left in Russian."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.4.0",
       "date": "2026-11-07",
-      "preview": "assets/p.svg",
+      "preview": "",
       "download": "https://github.com/deskify/Workspace/releases/download/1.4/setup_ws.exe",
       "size": "25.4 мб",
       "changes": [
