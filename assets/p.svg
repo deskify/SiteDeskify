@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Окно Deskify Workspace: список задач" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16203a"/><stop offset="1" stop-color="#3a2a66"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".5"/></filter>
+<symbol id="logo" viewBox="0 0 512 512"><defs><linearGradient id="lgG" gradientUnits="userSpaceOnUse" x1="110" y1="110" x2="430" y2="410"><stop offset="0" stop-color="#4f8bff"/><stop offset="0.55" stop-color="#7a6cff"/><stop offset="1" stop-color="#b36bff"/></linearGradient><linearGradient id="lgBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171c29"/><stop offset="1" stop-color="#0b0e14"/></linearGradient><radialGradient id="lgGlow" cx="0.3" cy="0.2" r="0.8"><stop offset="0" stop-color="#4f8bff" stop-opacity="0.28"/><stop offset="1" stop-color="#4f8bff" stop-opacity="0"/></radialGradient></defs><rect width="512" height="512" rx="112" fill="url(#lgBg)"/><rect width="512" height="512" rx="112" fill="url(#lgGlow)"/><g transform="translate(-20 0)" stroke-width="28" stroke-linejoin="round" stroke="url(#lgG)" fill="url(#lgG)"><path d="M132 126H196V238H132Z"/><path d="M132 280H196V386H132Z"/><path d="M238 126H290A130 130 0 0 1 418.29 235H238Z"/><path d="M238 277H418.29A130 130 0 0 1 290 386H238Z"/></g></symbol><clipPath id="win"><rect x="90" y="48" width="1100" height="624" rx="12"/></clipPath>
+</defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<circle cx="1120" cy="90" r="190" fill="#7c3aed" opacity=".12"/><circle cx="170" cy="660" r="210" fill="#3b82f6" opacity=".12"/>
+<rect x="90" y="48" width="1100" height="624" rx="12" fill="#242424" filter="url(#sh)"/>
+<g clip-path="url(#win)" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<rect x="90" y="48" width="1100" height="36" fill="#1a1a1a"/>
+<use href="#logo" x="106" y="58" width="16" height="16"/>
+<text x="132" y="71" font-size="13" fill="#c9c9c9">Deskify Workspace</text>
+<path d="M1096 66h12M1130 61h10v10h-10zM1160 61l10 10M1170 61l-10 10" stroke="#9a9a9a" stroke-width="1.4" fill="none"/>
+<rect x="90" y="84" width="212" height="588" fill="#2b2b2b"/>
+<use href="#logo" x="112" y="102" width="46" height="46"/>
+<text x="166" y="131" font-size="19" font-weight="700" fill="#f2f2f2">Deskify</text>
+<text x="166" y="147" font-size="11" fill="#8f8f8f">Workspace</text>
+<rect x="108" y="176" width="178" height="40" rx="8" fill="#1f6aa5"/>
+<rect x="124" y="189" width="14" height="14" rx="4" fill="#ffffff" opacity="1"/>
+<text x="150" y="201" font-size="15" fill="#ffffff">Задачи</text>
+<rect x="124" y="235" width="14" height="14" rx="4" fill="#cfcfcf" opacity="0.55"/>
+<text x="150" y="247" font-size="15" fill="#cfcfcf">Календарь</text>
+<rect x="124" y="281" width="14" height="14" rx="4" fill="#cfcfcf" opacity="0.55"/>
+<text x="150" y="293" font-size="15" fill="#cfcfcf">Заметки</text>
+<rect x="124" y="327" width="14" height="14" rx="4" fill="#cfcfcf" opacity="0.55"/>
+<text x="150" y="339" font-size="15" fill="#cfcfcf">Таймер</text>
+<rect x="124" y="373" width="14" height="14" rx="4" fill="#cfcfcf" opacity="0.55"/>
+<text x="150" y="385" font-size="15" fill="#cfcfcf">Напоминания</text>
+<rect x="124" y="419" width="14" height="14" rx="4" fill="#cfcfcf" opacity="0.55"/>
+<text x="150" y="431" font-size="15" fill="#cfcfcf">Калькулятор</text>
+<rect x="124" y="465" width="14" height="14" rx="4" fill="#cfcfcf" opacity="0.55"/>
+<text x="150" y="477" font-size="15" fill="#cfcfcf">Плагины</text>
+<rect x="108" y="612" width="178" height="40" rx="8" fill="#343638"/>
+<text x="150" y="637" font-size="15" fill="#cfcfcf">Настройки</text>
+<circle cx="131" cy="632" r="7" fill="none" stroke="#cfcfcf" stroke-width="2" opacity=".6"/>
+<text x="332" y="128" font-size="30" font-weight="700" fill="#f2f2f2">Привет, Артур!</text>
+<text x="332" y="154" font-size="14" fill="#8f8f8f">Среда, 11 ноября 2026</text>
+<rect x="332" y="176" width="326" height="40" rx="8" fill="#343638" stroke="#565b5e"/>
+<text x="348" y="201" font-size="14" fill="#8a8a8a">Новая задача…</text>
+<rect x="668" y="176" width="108" height="40" rx="8" fill="#343638" stroke="#565b5e"/><circle cx="686" cy="196" r="5" fill="#f1c40f"/><text x="698" y="201" font-size="14" fill="#e6e6e6">Средний</text>
+<rect x="786" y="176" width="100" height="40" rx="8" fill="#343638" stroke="#565b5e"/><text x="802" y="201" font-size="14" fill="#e6e6e6">Работа</text>
+<rect x="896" y="176" width="118" height="40" rx="8" fill="#343638" stroke="#1f6aa5" stroke-width="2"/><text x="912" y="201" font-size="14" fill="#f2f2f2">завтра</text>
+<rect x="1024" y="176" width="136" height="40" rx="8" fill="#1f6aa5"/><text x="1092" y="201" font-size="14" font-weight="600" fill="#fff" text-anchor="middle">Добавить</text>
+<rect x="332" y="226" width="80" height="26" rx="7" fill="#4a4a4a"/><text x="372.0" y="244" font-size="12.5" fill="#f0f0f0" text-anchor="middle">Сегодня</text>
+<rect x="418" y="226" width="74" height="26" rx="7" fill="#4a4a4a"/><text x="455.0" y="244" font-size="12.5" fill="#f0f0f0" text-anchor="middle">Завтра</text>
+<rect x="498" y="226" width="114" height="26" rx="7" fill="#4a4a4a"/><text x="555.0" y="244" font-size="12.5" fill="#f0f0f0" text-anchor="middle">Через неделю</text>
+<rect x="618" y="226" width="94" height="26" rx="7" fill="#4a4a4a"/><text x="665.0" y="244" font-size="12.5" fill="#f0f0f0" text-anchor="middle">Без срока</text>
+<text x="338" y="275" font-size="12.5" fill="#8f8f8f">→ Четверг, 12 ноября 2026</text>
+<rect x="332" y="292" width="828" height="56" rx="10" fill="#2b2b2b"/>
+<rect x="353" y="310" width="20" height="20" rx="6" fill="none" stroke="#6b6b6b" stroke-width="2"/>
+<text x="390" y="326" font-size="16" fill="#ececec">Подготовить релиз 1.5.0</text>
+<rect x="900" y="313" width="13" height="13" rx="3" fill="none" stroke="#8f8f8f" stroke-width="1.6"/><path d="M900 318h13" stroke="#8f8f8f" stroke-width="1.6"/>
+<text x="922" y="325" font-size="13" fill="#8f8f8f">Сегодня</text>
+<rect x="1046" y="307" width="96" height="26" rx="13" fill="#e74c3c" opacity=".16"/>
+<circle cx="1062" cy="320" r="4" fill="#e74c3c"/><text x="1074" y="325" font-size="12.5" fill="#e74c3c">Высокий</text>
+<rect x="332" y="356" width="828" height="56" rx="10" fill="#2b2b2b"/>
+<rect x="353" y="374" width="20" height="20" rx="6" fill="none" stroke="#6b6b6b" stroke-width="2"/>
+<text x="390" y="390" font-size="16" fill="#ececec">Проверить обновление с 1.4.0</text>
+<rect x="900" y="377" width="13" height="13" rx="3" fill="none" stroke="#8f8f8f" stroke-width="1.6"/><path d="M900 382h13" stroke="#8f8f8f" stroke-width="1.6"/>
+<text x="922" y="389" font-size="13" fill="#8f8f8f">Завтра</text>
+<rect x="1046" y="371" width="96" height="26" rx="13" fill="#e74c3c" opacity=".16"/>
+<circle cx="1062" cy="384" r="4" fill="#e74c3c"/><text x="1074" y="389" font-size="12.5" fill="#e74c3c">Высокий</text>
+<rect x="332" y="420" width="828" height="56" rx="10" fill="#2b2b2b"/>
+<rect x="353" y="438" width="20" height="20" rx="6" fill="none" stroke="#6b6b6b" stroke-width="2"/>
+<text x="390" y="454" font-size="16" fill="#ececec">Описать новый API плагинов для 2.0</text>
+<rect x="900" y="441" width="13" height="13" rx="3" fill="none" stroke="#8f8f8f" stroke-width="1.6"/><path d="M900 446h13" stroke="#8f8f8f" stroke-width="1.6"/>
+<text x="922" y="453" font-size="13" fill="#8f8f8f">14.11.2026</text>
+<rect x="1046" y="435" width="96" height="26" rx="13" fill="#f1c40f" opacity=".16"/>
+<circle cx="1062" cy="448" r="4" fill="#f1c40f"/><text x="1074" y="453" font-size="12.5" fill="#f1c40f">Средний</text>
+<rect x="332" y="484" width="828" height="56" rx="10" fill="#2b2b2b"/>
+<rect x="353" y="502" width="20" height="20" rx="6" fill="none" stroke="#6b6b6b" stroke-width="2"/>
+<text x="390" y="518" font-size="16" fill="#ececec">Собрать установщик в Inno Setup</text>
+<rect x="900" y="505" width="13" height="13" rx="3" fill="none" stroke="#e74c3c" stroke-width="1.6"/><path d="M900 510h13" stroke="#e74c3c" stroke-width="1.6"/>
+<text x="922" y="517" font-size="13" fill="#e74c3c">05.11.2026</text>
+<rect x="1046" y="499" width="96" height="26" rx="13" fill="#f1c40f" opacity=".16"/>
+<circle cx="1062" cy="512" r="4" fill="#f1c40f"/><text x="1074" y="517" font-size="12.5" fill="#f1c40f">Средний</text>
+<rect x="332" y="548" width="828" height="56" rx="10" fill="#2b2b2b"/>
+<rect x="352" y="565" width="22" height="22" rx="6" fill="#1f6aa5"/><path d="M357 576l5 5 8-10" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="390" y="582" font-size="16" fill="#7a7a7a" text-decoration="line-through">Обновить страницу загрузки</text>
+<rect x="900" y="569" width="13" height="13" rx="3" fill="none" stroke="#6f6f6f" stroke-width="1.6"/><path d="M900 574h13" stroke="#6f6f6f" stroke-width="1.6"/>
+<text x="922" y="581" font-size="13" fill="#6f6f6f">10.11.2026</text>
+<rect x="1046" y="563" width="96" height="26" rx="13" fill="#2ecc71" opacity=".16"/>
+<circle cx="1062" cy="576" r="4" fill="#2ecc71"/><text x="1074" y="581" font-size="12.5" fill="#2ecc71">Низкий</text>
+</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1YmE2NzcxMy03NmNjLTRkZTUtODU0Yy02OTNlMjRhNGY2ZjUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOjNY4ew2pkucqAeRyhOEsIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMDIxZTdkNC0zNjZiLTQwZjktYjNiNC1hYzA2MDBmNTE2YzRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNolm9TL84NTQf7Rga5n3PC8AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggaLDCVfD/P7vK9K3dl3RUp8aPEPu6q09gygHol7rUrX+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOpdbbdeh0dicuVTFDULWx4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIB+ulChSpDYRQmYI9W1tYvLNbzHXMx385bFCPRU4wyX0ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSW3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjViYTY3NzEzLTc2Y2MtNGRlNS04NTRjLTY5M2UyNGE0ZjZmNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI4YjAxMTZkLTFkZmYtNGM2MC04ZmIwLTYyMjAwNGNkNDIxMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBosMJV8P8/u8r0rd2XdFSnxo8Q+7qrT2DKAeiXutStf6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggVuR8nZoiSIAlzkfvAXe6t/Of0Hw+s8wP5YTtAmUY+92iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggprXULHIXvbqWg4Cv8XyA3EKnIh5UwmIcogsPJt6OyKx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJWU1rQETrootOnHB7Jo6HiF1cc8KLTeh2jGmd6Qk1c29EGGpUggRDa7NsfVizx+d5tIsDsCtA3U/p3klQ9VA6A=</c2pa:manifest></metadata></svg>
