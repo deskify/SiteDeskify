@@ -15,7 +15,7 @@
         "It can be extended with plugins, which you can install from the plugin store or add manually. It also features PIN protection and minimizes to the system tray."
       ]
     },
-    "logo": "assets/1.jpg",
+    "logo": "assets/logo.svg",
     "platform": "Windows"
   },
   "releases": [
